@@ -1,4 +1,4 @@
-#include "chip8_redo.hpp"
+#include "chip8.hpp"
 
 const std::array<uint8_t, 80> Chip8::fontset = {
     0xF0, 0x90, 0x90, 0x90, 0xF0, // 0
