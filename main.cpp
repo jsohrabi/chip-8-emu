@@ -1,4 +1,4 @@
-#include "chip8_redo.hpp"
+#include "chip8.hpp"
 #include "graphics.hpp"
 
 int main(int argc, char **argv) {
